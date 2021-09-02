@@ -24,7 +24,7 @@ The challenge is to build out this profile card component and get it looking as 
 
 ### Screenshot
 
-![Screenshot](https://imgur.com/a/WEI5umf)
+![Screenshot](https://flic.kr/p/2mkNRMt)
 
 
 ### Links
@@ -63,7 +63,7 @@ Here's my favorite snippet
 ### Useful resources
 
 - [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A) - This youtube channel helped me to understand the Bootstrap grid System. I like how he's explaining all the complicated stuff, and he's pretty straight foward. Absolutely recommended!
--[Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS) - Fellow indonesian friends! Pak dika is the best. Trust me
+- [Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS) - Fellow indonesian friends! Pak dika is the best. Trust me
 - [W3schools](https://www.w3schools.com/) - I mean, who doesn't use W3School? Sometime I forgot what attribute I could use, also with the properties. And w3s made it easy!
 
 ## Author
