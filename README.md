@@ -24,7 +24,7 @@ The challenge is to build out this profile card component and get it looking as 
 
 ### Screenshot
 
-![Screenshot](https://flic.kr/p/2mkNRMt)
+![Screenshot](./images/ss.jpg)
 
 
 ### Links
